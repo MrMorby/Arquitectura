@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BdgetApplication<bdget>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.bdget.BdgetApplication",
+            "projectName": "bdget",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
